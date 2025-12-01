@@ -1,10 +1,6 @@
-Got it — you want **a simple “What I Learned” section** that you can copy–paste into your Frontend Mentor README **based on the CSS you wrote**.
 
-Here is the perfect text for it 👇 (clean, simple, student-friendly, and exactly matching your project).
 
----
 
-# ✅ What I Learned (Final Text to Copy)
 
 While building this project, I learned several important concepts in HTML and CSS:
 
